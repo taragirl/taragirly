@@ -243,7 +243,7 @@ h2 {
 }
 
 #index {
-  background-image: url(../cover.jpg);
+  background-image: url(cover.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -251,7 +251,7 @@ h2 {
 }
 
 #about {
-  background-image: url(../bg-about.jpg);
+  background-image: url(bg-about.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
